@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ˆ§÷8»‚áãÌ2
+K
+java:S1481")Remove this unused "lock" local variable.(âÑı³øÿÿÿÿ8´¢âãÌ2
+X	java:S125"<This block of commented-out lines of code should be removed.(¸¬ü8µ¢âãÌ2
+]	java:S125""<This block of commented-out lines of code should be removed.(Ò‚ ëøÿÿÿÿ8¶¢âãÌ2
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ù˜•üÿÿÿÿ8À‚áãÌ2

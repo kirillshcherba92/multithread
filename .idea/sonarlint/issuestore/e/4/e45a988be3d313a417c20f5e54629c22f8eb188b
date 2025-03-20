@@ -1,0 +1,19 @@
+
+=
+java:S1604"(Make this anonymous inner class a lambda(ô§ê
+C
+java:S1604"(Make this anonymous inner class a lambda(ôâ…Æþÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÿý§ýÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñÇûÁ
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78šÆ¿ÕÆ2
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¦”‰
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡‡¿·8êò»ÕÆ2
+X	java:S125#"<This block of commented-out lines of code should be removed.(®ÓËÁ8ÿôºÕÆ2
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ø™¡©8ô¼ÕÆ2
+W	java:S1252"<This block of commented-out lines of code should be removed.(ßæÅ98ÃŽ»ÕÆ2
+X	java:S1257"<This block of commented-out lines of code should be removed.(©Þ²ñ8Ï¹¸ÕÆ2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8¡Æ¿ÕÆ2
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8¡Æ¿ÕÆ2

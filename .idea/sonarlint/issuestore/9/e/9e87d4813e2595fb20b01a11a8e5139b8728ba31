@@ -1,0 +1,10 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(—´ŠÃ
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÛÔŸÌÑ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸°èâþÿÿÿÿ8¶Ý¡ÌÑ2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8·Ý¡ÌÑ2
+?
+java:S1068")Remove this unused "start" private field.(“¸Ë÷

@@ -1,0 +1,9 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+=
+java:S2201"'The return value of "get" must be used.(«À•°
+]	java:S125!"<This block of commented-out lines of code should be removed.(¯çÔÒûÿÿÿÿ8°ä—€Ç2
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Å•ÆŽýÿÿÿÿ8”“µÿÆ2
+D
+java:S1068")Remove this unused "count" private field.(°©ºµÿÿÿÿÿ

@@ -1,0 +1,5 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷±¦¢
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Í¬Âıÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+1
+java:S1700G"Rename field "counter"(¶®¡êşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é—à‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅŒ şÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÒÚ«Î8ñ·€öÊ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÒÚ«Î8Ë¨öÊ2
+X	java:S125!"<This block of commented-out lines of code should be removed.(òİĞÃ8…àöÊ2
+X	java:S125'"<This block of commented-out lines of code should be removed.(òİĞÃ8è¸‚öÊ2
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(§Şèã
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¾Êæôıÿÿÿÿ
+i
+java:S2445V"L"monitor" is a method parameter, and should not be used for synchronization.(¥Ïìú8²éõõÊ2

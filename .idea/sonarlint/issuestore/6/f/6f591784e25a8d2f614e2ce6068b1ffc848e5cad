@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûİê”
+G
+java:S1481"*Remove this unused "task1" local variable.(ÆÏú®8Ä©ƒ€»2
+L
+java:S1481"*Remove this unused "task2" local variable.(Óçºûûÿÿÿÿ8Ä©ƒ€»2
+L
+java:S1481"*Remove this unused "task3" local variable.(áéØİûÿÿÿÿ8Å©ƒ€»2
+G
+java:S1481"*Remove this unused "task4" local variable.(Ğ›Ûù8Å©ƒ€»2
+L
+java:S1481"*Remove this unused "task5" local variable.(½‡Èıÿÿÿÿ8Æ©ƒ€»2
+X	java:S125"<This block of commented-out lines of code should be removed.(÷ş8Æ©ƒ€»2
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³«Ûª
+N
+java:S1128",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8È©ƒ€»2
+M
+java:S1128"0Remove this unused import 'java.util.TimerTask'.(àÀÇÙ8È©ƒ€»2
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8È©ƒ€»2

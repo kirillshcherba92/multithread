@@ -1,0 +1,13 @@
+
+[	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(’ÈÕÒ
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õ€Ê¬úÿÿÿÿ8Ä±º¾É2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¡ËäÒ8·­½¾É2
+t
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ñ±º¾É2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ä­½¾É2
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Êï­ê8âÉ¯¾É2
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÿ¥İ‚øÿÿÿÿ8û½¾É2

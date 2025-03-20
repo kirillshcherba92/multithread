@@ -1,0 +1,17 @@
+
+B
+java:S1602",Remove useless curly braces around statement(í¢ß§
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142]"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+g
+java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(Üôüš
+N	java:S106["9Replace this use of System.out or System.err by a logger.(Üôüš
+t
+java:S2142p"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+f
+java:S3457m"Q%n should be used in place of \n to produce the platform-specific line separator.(à›˜Q
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(à›˜Q

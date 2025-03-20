@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êãžüÿÿÿÿ
+[
+java:S1854">Remove this useless assignment to local variable "exchanger2".(¸ðüÿ8«ºÒÝº2
+X
+java:S1854	"<Remove this useless assignment to local variable "counter2".(Áµ„b8¬ºÒÝº2
+I
+java:S1481	"-Remove this unused "counter2" local variable.(Áµ„b8®ºÒÝº2
+L
+java:S1481"/Remove this unused "exchanger2" local variable.(¸ðüÿ8°ºÒÝº2
